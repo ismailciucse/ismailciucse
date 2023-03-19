@@ -9,13 +9,13 @@
 I'm a professional web designer and developer including Web Design, Website Creation, Landing Page Creation, Bootstrap, Responsive Design, Front End Development, HTML5, CSS3, PHP, Javascript, Jquery, React.js, Node.js, WordPress, eCommerce & blog website complete branding services.
 
 ### 👨‍💻 Skills & Experiance: 
-✅ REACT 
-✅ NODE
-✅ HTML
-✅ CSS
-✅ JAVASCRIPT
-✅ PHP
-✅ WordPress
+✅ REACT </br>
+✅ NODE </br>
+✅ HTML </br>
+✅ CSS </br>
+✅ JAVASCRIPT </br>
+✅ PHP </br>
+✅ WordPress </br>
 
 
 
