@@ -1,4 +1,5 @@
-(banner.jpg)
+
+<img src="banner.jpg" alt="Ismail" />
 
 ### Hi there 👋, I'm Md. Ismail
 #### I'm a full-stack developer.
